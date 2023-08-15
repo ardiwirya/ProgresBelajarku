@@ -1,14 +1,21 @@
-# ProgresBelajarku
-Repositori ini berisi progres belajarku pada saat Studi Independen di Dicoding
+# Progres Belajarku
 
-15 Agustus 2023
+Repository Ini Berisi Pengalaman Belajarku saat Studi Independen di Dicoding
+
+**15 Agustus 2023**  
+
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
 
-* Belajar tentang apa itu Java dan alasan menggunakannya.
-* Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
+  * Belajar tentang apa itu Java dan alasan menggunakannya.
 
-16 Agustus 2023
+  * Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
+
+**16 Agustus 2023**  
+
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
+
   * Belajar dasar-dasar Java, seperti struktur dasar, tipe data, string, operator, input output, dan array.
+
   * Belajar control flow dalam Java, seperti perulangan dan percabangan.
+
   * Belajar tipe data koleksi, seperti list, set, dan map.
