@@ -3,7 +3,7 @@
 # 👨‍💻 Ardi Wirya Indarto
 ### Progres Belajar Studi Independen Bersertifikat (SIB) Dicoding Cycle 5
 
-**Front-End Web & Back-End Development**
+**Front-End Web & Back-End Development** 
 
 [![Status](https://img.shields.io/badge/Status-Lulus%20Penuh-brightgreen?style=for-the-badge)](#)
 [![Nilai Akhir](https://img.shields.io/badge/Nilai%20Akhir-85.79%20(A)-blue?style=for-the-badge)](#)
